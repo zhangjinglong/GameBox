@@ -1,0 +1,24 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity" >
+ <com.ivali.gamebox.util.RoundedImageView
+		       android:id="@+id/ItemImage"
+		       android:layout_width="60dp"
+		       android:layout_height="60dp"
+		       android:layout_centerHorizontal="true"
+		       android:layout_centerInParent="true"
+		       android:layout_margin="5dp"
+		       android:scaleType="center"
+		       android:src="@drawable/guide1" />
+<TextView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_below="@+id/ItemImage"
+    android:id="@+id/ItemText"
+    android:layout_centerHorizontal="true"
+/>
+
+
+</RelativeLayout>

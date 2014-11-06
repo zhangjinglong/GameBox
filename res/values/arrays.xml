@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string-array name="app_url_array">
+	    <item>http://www.eachpal.com/apk/eachpal.apk</item>
+	    <item>http://gdown.baidu.com/data/wisegame/29218e733c59dc13/kailidedaohang_6063.apk</item>
+	    <item>http://static.opda.com:808/systemupdate/zmaster_2.7.0.apk</item>
+	    <item>http://d.xiazai18.com/wandoujia-meng6_ad.apk</item>
+	    <item>http://gdown.baidu.com/data/wisegame/3baf282003d6d252/yijianRootdashi_226.apk</item>
+	    <item>http://down.360safe.com/360PermRoot/PermRoot.apk</item>
+</string-array>
+<string-array name="app_text_array">
+	    <item>听风</item>
+	    <item>凯立德导航</item>
+	    <item>刷机专家</item>
+	    <item>豌豆荚</item>
+	    <item>一键Root大师</item>
+	    <item>360超级ROOT</item>
+</string-array>
+</resources>

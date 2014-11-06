@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="others_rounded_imageview">
+        <attr name="border_thickness" format="dimension" />
+        <attr name="border_color" format="color" />
+        <attr name="content_color" format="color" />
+        <attr name="show_text_background" format="boolean" />
+    </declare-styleable>
+   
+
+</resources>
